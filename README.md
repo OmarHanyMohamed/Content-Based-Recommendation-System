@@ -31,3 +31,4 @@ Cosine similarity is a metric used to measure how similar the documents are irre
 ## Notes
 * This dataset is missing one file which is credits.csv as it's large so you can download it and the entire data from [here](https://www.kaggle.com/rounakbanik/the-movies-dataset) .
 * I implemented this recommendation system as a flask api and used it in my app [Recomovie](https://github.com/OmarHanyMohamed/RecoMovieApp) App.
+* You can find all required libraries needed in ```requirements.txt``` just run this command ```pip install -r requirements.txt```
